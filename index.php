@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Jordi Prova</title>
+        <title>Jordi Prova GITHUB</title>
     </head>
     <body>
 <div>
